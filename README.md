@@ -1,20 +1,30 @@
 # Python Practice Projects
 
-A set of beginner-friendly Python applications, games, and graphics projects.
+A collection of Python applications, games, automation scripts, and graphics projects built while learning Python.
 
 ## Projects
 
-- **Hirst Painting** — Creates colourful dot paintings using Turtle Graphics.
-- **Spirograph** — Draws spirograph patterns using Turtle Graphics.
-- **Turtle Race** — A turtle racing game.
-- **Turtle Crossing Game** — A game where the player navigates across moving traffic.
-- **Miles to Kilometer Converter** — Converts miles into kilometers.
-- **NATO Alphabets** — Converts words into their NATO phonetic alphabet equivalents.
-- **U.S. States Quiz** — Tests knowledge of U.S. state names.
+- **Birthday Wisher** — Sends birthday wishes through email.
 - **Coffee Machine** — Simulates a coffee machine with drink options and resource management.
+- **Coffee Machine OOP** — Implements a coffee machine using object-oriented programming.
+- **Etch-a-Sketch** — Creates drawings using keyboard controls and Turtle Graphics.
+- **Flash Card Project** — Helps practise and memorise flashcards.
 - **Higher or Lower** — A guessing game where players compare values.
+- **Hirst Painting** — Creates colourful dot paintings using Turtle Graphics.
+- **ISS Overhead Notifier** — Checks whether the International Space Station is overhead.
+- **Kanye Quotes** — Displays random quotes from the Kanye Rest API.
+- **Mail Merge Project** — Generates personalised letters using a template and names.
+- **Miles to Kilometer Converter** — Converts miles into kilometers.
+- **Motivation Sender** — Sends motivational messages by email.
+- **NATO Alphabets** — Converts words into their NATO phonetic alphabet equivalents.
+- **Pomodoro** — A timer application based on the Pomodoro technique.
 - **Quiz Game** — A question-and-answer game that tracks the player's score.
+- **Quizler App** — A quiz application with a graphical user interface.
+- **Spirograph** — Draws spirograph patterns using Turtle Graphics.
+- **Turtle Crossing Game** — A game where the player navigates across moving traffic.
+- **Turtle Race** — A turtle racing game.
+- **U.S. States Quiz** — Tests knowledge of U.S. state names.
 
 ## About
 
-This repository brings together small projects built to explore Python through practical applications. The projects cover concepts such as functions, loops, conditionals, data structures, modules, Turtle Graphics, and basic object-oriented programming.
+These projects explore Python concepts through hands-on development, including functions, loops, data structures, APIs, file handling, email automation, Turtle Graphics, graphical user interfaces, and object-oriented programming.
